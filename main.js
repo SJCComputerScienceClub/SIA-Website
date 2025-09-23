@@ -4,9 +4,9 @@ const events = [
   {
     title: "Monday Meeting",
     date: "Every Monday",
-    time: "3:00 PM - 4:00 PM",
-    location: "Room ___",
-    description: "Come hang out in ___'s room and talk to other queer individuals and allies. Everyone is welcome!",
+    time: "2:45 PM - 3:45 PM",
+    location: "Room 110",
+    description: "Come hang out in Mr. Stanphill's room and talk to other queer individuals and allies. Everyone is welcome!",
     gradient: "linear-gradient(to right, var(--pastel-pink), var(--pastel-blue))"
   }
   /*
